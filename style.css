@@ -1,0 +1,30 @@
+header {
+    border: red;
+    height: 20px;
+    width: 150px;
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+main {
+    background-color: lightcoral;
+}
+
+body {
+    font-family: Arial;
+}
+
+footer{
+    border: red;
+    border-style: solid;
+    background-color: lightgrey;
+}
+
+.title {
+    font-size: 11px;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+}
